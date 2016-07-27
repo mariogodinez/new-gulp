@@ -1,4 +1,6 @@
-alert('Hey you are starting a new workflow with gulp here ');
+
+console.log('iniciando proyecto'); //NO BORRAR ESTO!
 
 
+var webcam = require('webcamjs');
 
